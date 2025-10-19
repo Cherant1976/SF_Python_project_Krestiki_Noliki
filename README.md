@@ -6,10 +6,10 @@
   
 
 ### Описание учебного проекта    
-Учебный проект: Python консольная игра Крестики-нолики. [**Cтатья об игре**](https://ru.wikipedia.org/wiki/Крестики-нолики).
+Учебный проект: Python консольная игра Крестики-нолики. [**Cтатья об игре**](https://ru.wikipedia.org/wiki/Крестики-нолики).  
+В файле [krestiki_noliki.py](https://github.com/Cherant1976/SF_Python_project_Krestiki_Noliki/blob/master/krestiki_noliki.py) есть обильные (*даже слишком*) комментарии кода.
 
 :arrow_up:[к оглавлению](https://github.com/Cherant1976/SF_Python_project_Krestiki_Noliki#Оглавление)  
-В файле [krestiki_noliki.py](https://github.com/Cherant1976/SF_Python_project_Krestiki_Noliki/blob/master/krestiki_noliki.py) есть обильные (*даже слишком*) комментарии кода.
 
 
 ### Информация об особенностях созданной игры:
