@@ -6,7 +6,7 @@
   
 
 ### Описание учебного проекта    
-Учебный проект: Python консольная игра Крестики-нолики [**статья об игре**](https://ru.wikipedia.org/wiki/Крестики-нолики/).
+Учебный проект: Python консольная игра Крестики-нолики. [**Cтатья об игре**](https://ru.wikipedia.org/wiki/Крестики-нолики).
 
 :arrow_up:[к оглавлению](https://github.com/Cherant1976/SF_Python_project_Krestiki_Noliki#Оглавление)
 
@@ -16,4 +16,4 @@
 Два игрока делают ход друг после друга.  
 Если ход сделан неверно, то игрок сделавший ошибку в ходе (допустим ввёл данные уже занятой клетки игровой таблицы) делает ход повторно.
   
-:arrow_up:[к оглавлению](https://github.com/Cherant1976/SF_Head_Hunter_Project_2#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Cherant1976/SF_Python_project_Krestiki_Noliki#Оглавление)
